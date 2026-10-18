@@ -1,0 +1,23 @@
+{
+  "name": "23cs054-awdf-practical7",
+  "version": "1.0.0",
+  "description": "Practical 7: Authentication and Middleware Pipeline (React + Node + Express + JWT + bcrypt + MongoDB Atlas)",
+  "private": true,
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client dev",
+    "test:server": "npm --prefix server test",
+    "build:client": "npm --prefix client build"
+  },
+  "keywords": [
+    "react",
+    "jwt",
+    "bcrypt",
+    "express",
+    "mongodb-atlas",
+    "authentication",
+    "middleware-pipeline"
+  ],
+  "author": "Hitansh Parikh (23CS054)",
+  "license": "ISC"
+}
